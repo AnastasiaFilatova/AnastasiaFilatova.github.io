@@ -53,11 +53,19 @@ body {
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+<<<<<<< HEAD
   color: #000000;
 }
 
 a {
   color: #0033FF;
+=======
+  color: #6d6d6d;
+}
+
+a {
+  color: #d5000d;
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 }
 a:hover {
   color: #c5000c;
@@ -69,13 +77,20 @@ header {
 }
 
 header h1 {
+<<<<<<< HEAD
   font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 900;
+=======
+  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
   letter-spacing: -1px;
   font-size: 48px;
   color: #303030;
   line-height: 1.2;
+<<<<<<< HEAD
   text-align: center;
+=======
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 }
 
 header h2 {
@@ -251,7 +266,10 @@ h2 {
   font-weight: bold;
   color: #303030;
   margin-bottom: 8px;
+<<<<<<< HEAD
   text-align: center;
+=======
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 } 
 
 h3 {
@@ -280,7 +298,10 @@ h6 {
 p {
   font-weight: 300;
   margin-bottom: 20px;
+<<<<<<< HEAD
   font-family: 'Helvetica';
+=======
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 }
  
 a {
@@ -289,7 +310,10 @@ a {
 
 p a {
   font-weight: 400;
+<<<<<<< HEAD
   font-family: 'Helvetica';
+=======
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 }
 
 blockquote {
@@ -302,7 +326,10 @@ blockquote {
 ul li {
   list-style: disc inside;
   padding-left: 20px;
+<<<<<<< HEAD
   font-family: 'Helvetica';
+=======
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 }
 
 ol li {
@@ -310,10 +337,13 @@ ol li {
   padding-left: 3px;
 }
 
+<<<<<<< HEAD
 ol p {
     text-align: center;
 }
 
+=======
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 dl dt {
   color: #303030;
 }
@@ -325,7 +355,10 @@ footer {
   padding-bottom: 30px;
   font-size: 13px;
   color: #aaa;
+<<<<<<< HEAD
   
+=======
+>>>>>>> fd94e8426a23f15ad6f02012afad9bf4f0555e6b
 }
 
 footer a {
